@@ -1,6 +1,6 @@
 # AWS VPC Peering: EWB Cloud Labs Project 01
 
-**Name:** _your name_  **Batch:** _your batch_  **Region:** ap-south-1  **Completed:** _date_
+**Name:** _Mithesh Makam_  **Batch:** _BATCH-1_  **Region:** ap-south-1  **Completed:** _17/10/2026_
 
 Two private VPCs connected with VPC peering, administered through one public bastion (SSH ProxyJump).
 
