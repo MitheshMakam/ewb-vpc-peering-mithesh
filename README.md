@@ -68,6 +68,3 @@ The same steps can be done in the console; screenshots below are from my own run
 
 Removed only App-B's ICMP echo rule (source 10.10.2.10/32): pings from App-A stopped, SSH still worked. Restoring the exact rule brought replies back. This shows security groups, not the peering link, were gating the traffic.
 
-## What I learned
-
-_Write 3-4 lines in your own words._
